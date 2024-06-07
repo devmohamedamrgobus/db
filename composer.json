@@ -1,0 +1,17 @@
+{
+    "name": "itrax/backend2023",
+    "description": "db class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Itrax\\Backend2023\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "mohamed.amr@gobus-eg.com"
+        }
+    ],
+    "require": {}
+}
